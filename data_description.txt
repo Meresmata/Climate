@@ -1,0 +1,59 @@
+temperatures:
+	 unit: 1/10 °C
+	 
+	- Seasonal grids of monthly averaged daily maximum air temperature
+		(Jahreszeitenmittel der Monatsmittel der Lufttemperaturmaxima) (2m)
+		01.03.1901 - last season (01.03.1901 - aktuell)
+	- Seasonal grids of monthly averaged daily air temperature (2m)
+		(Jahreszeitenmittel der Monatsmittel der Lufttemperaturminima) (2m)
+		01.03.1881 - last season (01.03.1881 - aktuell)
+	- Seasonal grids of monthly averaged daily minimum air temperature (2m)
+		(Jahreszeitenmittel der Raster der Monatsmittel der Lufttemperaturminima)
+		01.03.1901 - last season (01.03.1901 - aktuell)
+
+Seasonal grids of sum of drought index (Trockenheitsindex): 
+	unit (Einheit): mm/°C calculation: dMI = P/(T+10)
+	01.01.2000 - last season
+	
+Seasonal grids of sum of precipitation (Niederschlagshöhe) over Germany: 
+	unit: mm
+	01.03.1881 - last season
+	
+Seasonal grids of sum of sunshine duration (Sonnenscheindauer) over German: 
+	unit: Seasonal sum of total sunshine duration 
+	01.03.1951 - last season
+	
+General:
+	- Missing values are marked with -999.
+	- 654 x 866 numbers
+
+
+Winter - 16
+Spring - 13
+Summer - 14
+Autumn - 15
+
+Air Temperature Min
+Minimum value: -255
+Maximum value: 187
+
+Drought Index
+Minimum value: 0
+Maximum value: 9329
+
+Precipitation
+Minimum value: 0
+Maximum value: 1691
+
+Sunshine Duration
+Minimum value: 26
+Maximum value: 951
+
+Air Temperature Max
+Minimum value: -112
+Maximum value: 306
+
+Air Temperature Mean
+Minimum value: -146
+Maximum value: 244
+
